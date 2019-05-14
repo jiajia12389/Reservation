@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name</string>
+    <string name="mn">Mobile Number</string>
+    <string name="group_size">No. of people</string>
+    <string name="Res">Reservation Date and Time</string>
+    <string name="Smoke">I need a smoking table</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
